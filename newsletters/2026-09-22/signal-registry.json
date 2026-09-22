@@ -1,0 +1,255 @@
+{
+  "edicion": "2026-09-22",
+  "periodo_cubierto": "2026-09-08 a 2026-09-22",
+  "nota_cobertura": "La última síntesis previa (2026-09-07) dejó un backlog de 2 semanas sin sintetizar en la base histórica de Airtable (VTC-794 a VTC-1008) más 24 observaciones nuevas en una base separada (VTC-1009 a VTC-1032). Esta edición procesa las 239 observaciones acumuladas desde entonces.",
+  "senales": [
+    {
+      "id_senal": "S-01",
+      "nombre_corto": "Bifurcación laboral júnior/sénior",
+      "primera_aparicion": "2026-08-24",
+      "cluster_origen": "Mercado laboral",
+      "estado_actual": "consolidada",
+      "fuerza_actual": "Fuerte",
+      "historial_fuerza": [
+        {"periodo": "2026-08-31", "valor": "Fuerte"},
+        {"periodo": "2026-09-07", "valor": "Fuerte"},
+        {"periodo": "2026-09-22", "valor": "Fuerte"}
+      ],
+      "evidencia_ids": ["VTC-666","VTC-675","VTC-747","VTC-788","VTC-809","VTC-835","VTC-881","VTC-901","VTC-957","VTC-999"],
+      "ultima_evidencia_fecha": "2026-09-21",
+      "semanas_sin_evidencia_nueva": 0
+    },
+    {
+      "id_senal": "S-02",
+      "nombre_corto": "Gobernanza rebasada por la adopción",
+      "primera_aparicion": "2026-08-24",
+      "cluster_origen": "Organización y gobernanza",
+      "estado_actual": "consolidada",
+      "fuerza_actual": "Fuerte",
+      "historial_fuerza": [
+        {"periodo": "2026-08-31", "valor": "Débil↑"},
+        {"periodo": "2026-09-07", "valor": "Fuerte"},
+        {"periodo": "2026-09-22", "valor": "Fuerte"}
+      ],
+      "evidencia_ids": ["VTC-690","VTC-692","VTC-693","VTC-773","VTC-837","VTC-839","VTC-865","VTC-995","VTC-1008","VTC-1026","VTC-1027"],
+      "ultima_evidencia_fecha": "2026-09-22",
+      "semanas_sin_evidencia_nueva": 0
+    },
+    {
+      "id_senal": "S-03",
+      "nombre_corto": "Robótica China como infraestructura estatal",
+      "primera_aparicion": "2026-08-24",
+      "cluster_origen": "Robotización física",
+      "estado_actual": "consolidada",
+      "fuerza_actual": "Fuerte",
+      "historial_fuerza": [
+        {"periodo": "2026-08-31", "valor": "Débil↑"},
+        {"periodo": "2026-09-07", "valor": "Fuerte"},
+        {"periodo": "2026-09-22", "valor": "Fuerte"}
+      ],
+      "evidencia_ids": ["VTC-661","VTC-750","VTC-768","VTC-780","VTC-800","VTC-816","VTC-827","VTC-910","VTC-975","VTC-994"],
+      "ultima_evidencia_fecha": "2026-09-20",
+      "semanas_sin_evidencia_nueva": 0,
+      "nota": "VTC-994 (guerra comercial de robots humanoides EE.UU.-China) es la observación más fuerte del periodo completo."
+    },
+    {
+      "id_senal": "S-04",
+      "nombre_corto": "Respuesta institucional anticipatoria",
+      "primera_aparicion": "2026-08-24",
+      "cluster_origen": "Educación y política pública",
+      "estado_actual": "en_crecimiento",
+      "fuerza_actual": "Fuerte",
+      "historial_fuerza": [
+        {"periodo": "2026-08-31", "valor": "Débil↑"},
+        {"periodo": "2026-09-07", "valor": "Débil↑"},
+        {"periodo": "2026-09-22", "valor": "Fuerte"}
+      ],
+      "evidencia_ids": ["VTC-745","VTC-757","VTC-872","VTC-924","VTC-949","VTC-979","VTC-1005","VTC-1020","VTC-1021"],
+      "ultima_evidencia_fecha": "2026-09-21",
+      "semanas_sin_evidencia_nueva": 0
+    },
+    {
+      "id_senal": "S-05",
+      "nombre_corto": "Redefinición del valor del trabajo humano",
+      "primera_aparicion": "2026-08-31",
+      "cluster_origen": "Naturaleza del trabajo",
+      "estado_actual": "en_crecimiento",
+      "fuerza_actual": "Fuerte",
+      "historial_fuerza": [
+        {"periodo": "2026-09-07", "valor": "Débil↑"},
+        {"periodo": "2026-09-22", "valor": "Fuerte"}
+      ],
+      "evidencia_ids": ["VTC-737","VTC-761","VTC-783","VTC-857","VTC-866","VTC-946","VTC-950","VTC-987","VTC-1014","VTC-1030","VTC-1032"],
+      "ultima_evidencia_fecha": "2026-09-22",
+      "semanas_sin_evidencia_nueva": 0
+    },
+    {
+      "id_senal": "S-06",
+      "nombre_corto": "Convergencia de riesgo macroeconómico IA",
+      "primera_aparicion": "2026-08-31",
+      "cluster_origen": "Macroeconomía",
+      "estado_actual": "en_crecimiento",
+      "fuerza_actual": "Fuerte",
+      "historial_fuerza": [
+        {"periodo": "2026-09-07", "valor": "Débil↑"},
+        {"periodo": "2026-09-22", "valor": "Fuerte"}
+      ],
+      "evidencia_ids": ["VTC-740","VTC-746","VTC-852","VTC-885","VTC-913","VTC-916","VTC-947","VTC-974"],
+      "ultima_evidencia_fecha": "2026-09-19",
+      "semanas_sin_evidencia_nueva": 0
+    },
+    {
+      "id_senal": "S-07",
+      "nombre_corto": "Comercialización global de robótica física",
+      "primera_aparicion": "2026-09-22",
+      "cluster_origen": "Robotización física (pivote desde S-03, ámbito no-China)",
+      "estado_actual": "emergente",
+      "fuerza_actual": "Fuerte",
+      "historial_fuerza": [
+        {"periodo": "2026-09-22", "valor": "Fuerte"}
+      ],
+      "evidencia_ids": ["VTC-805","VTC-871","VTC-908","VTC-959","VTC-961","VTC-1024","VTC-1006","VTC-1022","VTC-1007","VTC-1023"],
+      "ultima_evidencia_fecha": "2026-09-21",
+      "semanas_sin_evidencia_nueva": 0,
+      "nota": "Se separa de S-03 porque agrupa despliegues comerciales fuera del eje estatal chino (Toyota, Boston Dynamics/Hyundai, Skild AI, Maven Robotics) con dinámica propia (capital privado/corporativo, no estatal)."
+    },
+    {
+      "id_senal": "S-08",
+      "nombre_corto": "Carrera armamentista de IA en contratación",
+      "primera_aparicion": "2026-08-24",
+      "cluster_origen": "Selección de personal",
+      "estado_actual": "consolidada",
+      "fuerza_actual": "Fuerte",
+      "historial_fuerza": [
+        {"periodo": "2026-08-31", "valor": "Fuerte"},
+        {"periodo": "2026-09-07", "valor": "Débil↑"},
+        {"periodo": "2026-09-22", "valor": "Fuerte"}
+      ],
+      "evidencia_ids": ["VTC-665","VTC-677","VTC-696","VTC-714","VTC-799","VTC-880","VTC-904","VTC-1000","VTC-1011","VTC-1015"],
+      "ultima_evidencia_fecha": "2026-09-21",
+      "semanas_sin_evidencia_nueva": 0,
+      "nota": "Perdió visibilidad como fuerza motriz propia en la síntesis del 07-09 (sin evidencia explícita esa semana), pero no hubo evidencia de muerte; reaparece fuerte esta edición con precedente legal (Workday)."
+    },
+    {
+      "id_senal": "SD-01",
+      "nombre_corto": "OpenExecutive (IA sustituye al CEO)",
+      "primera_aparicion": "2026-09-07",
+      "cluster_origen": "Contramovilización tecnológica",
+      "estado_actual": "emergente",
+      "fuerza_actual": "Débil",
+      "historial_fuerza": [{"periodo": "2026-09-07", "valor": "Débil"}, {"periodo": "2026-09-22", "valor": "Débil"}],
+      "evidencia_ids": ["VTC-763"],
+      "ultima_evidencia_fecha": "2026-09-07",
+      "semanas_sin_evidencia_nueva": 1,
+      "que_la_escalaria": "Adopción fuera de laboratorios Anthropic; mención en audiencias legislativas; réplicas de la herramienta por otros despedidos."
+    },
+    {
+      "id_senal": "SD-02",
+      "nombre_corto": "AI Tax and Work Protection Act",
+      "primera_aparicion": "2026-09-07",
+      "cluster_origen": "Regulación fiscal",
+      "estado_actual": "emergente",
+      "fuerza_actual": "Débil",
+      "historial_fuerza": [{"periodo": "2026-09-07", "valor": "Débil"}, {"periodo": "2026-09-22", "valor": "Débil"}],
+      "evidencia_ids": ["VTC-752"],
+      "ultima_evidencia_fecha": "2026-09-07",
+      "semanas_sin_evidencia_nueva": 1,
+      "que_la_escalaria": "Cosponsor bipartidista; debate en comité; pilotos estatales similares.",
+      "nota": "VTC-974 (RAND, rebalancear código fiscal) es una propuesta relacionada pero distinta; no se fusiona con esta señal."
+    },
+    {
+      "id_senal": "SD-03",
+      "nombre_corto": "Centro NSF de coadaptación humano-robot",
+      "primera_aparicion": "2026-09-07",
+      "cluster_origen": "I+D pública",
+      "estado_actual": "emergente",
+      "fuerza_actual": "Débil",
+      "historial_fuerza": [{"periodo": "2026-09-07", "valor": "Débil"}, {"periodo": "2026-09-22", "valor": "Débil"}],
+      "evidencia_ids": ["VTC-781"],
+      "ultima_evidencia_fecha": "2026-09-07",
+      "semanas_sin_evidencia_nueva": 1,
+      "que_la_escalaria": "Publicaciones del centro; nuevos perfiles profesionales reconocidos; réplica en programas Horizon UE."
+    },
+    {
+      "id_senal": "SD-04",
+      "nombre_corto": "Plataforma pública china de IA encarnada",
+      "primera_aparicion": "2026-09-07",
+      "cluster_origen": "Robotización física (China)",
+      "estado_actual": "emergente",
+      "fuerza_actual": "Débil",
+      "historial_fuerza": [{"periodo": "2026-09-07", "valor": "Débil"}, {"periodo": "2026-09-22", "valor": "Débil"}],
+      "evidencia_ids": ["VTC-768"],
+      "ultima_evidencia_fecha": "2026-09-07",
+      "semanas_sin_evidencia_nueva": 1,
+      "que_la_escalaria": "Adopción de la plataforma fuera de China; estándares técnicos compatibles o divergentes con Occidente.",
+      "nota": "El eje temático madre (inversión estatal china en robótica) sí escaló a Fuerte vía S-03, pero esta instancia específica (la plataforma pública de servicio único) no tiene confirmación propia nueva."
+    },
+    {
+      "id_senal": "SD-05",
+      "nombre_corto": "Predicción Musk: 20-30 billones USD/año",
+      "primera_aparicion": "2026-09-07",
+      "cluster_origen": "Macroeconomía",
+      "estado_actual": "emergente",
+      "fuerza_actual": "Débil",
+      "historial_fuerza": [{"periodo": "2026-09-07", "valor": "Débil"}, {"periodo": "2026-09-22", "valor": "Débil"}],
+      "evidencia_ids": ["VTC-746"],
+      "ultima_evidencia_fecha": "2026-09-07",
+      "semanas_sin_evidencia_nueva": 1,
+      "que_la_escalaria": "Revisión de la cifra por think tanks económicos serios; inversión estatal/corporativa que la asuma como baseline."
+    },
+    {
+      "id_senal": "SD-06",
+      "nombre_corto": "Robots-soldado con financiación privada/Pentágono",
+      "primera_aparicion": "2026-09-22",
+      "cluster_origen": "Robotización física (militar)",
+      "estado_actual": "emergente",
+      "fuerza_actual": "Débil↑",
+      "historial_fuerza": [{"periodo": "2026-09-22", "valor": "Débil↑"}],
+      "evidencia_ids": ["VTC-908"],
+      "ultima_evidencia_fecha": "2026-09-14",
+      "semanas_sin_evidencia_nueva": 0,
+      "que_la_escalaria": "Nuevos contratos gubernamentales; entrada de competidores; escrutinio regulatorio sobre uso dual civil/militar."
+    },
+    {
+      "id_senal": "SD-07",
+      "nombre_corto": "OpenAI Jobs Platform (integración vertical)",
+      "primera_aparicion": "2026-09-22",
+      "cluster_origen": "Educación y política pública",
+      "estado_actual": "emergente",
+      "fuerza_actual": "Débil↑",
+      "historial_fuerza": [{"periodo": "2026-09-22", "valor": "Débil↑"}],
+      "evidencia_ids": ["VTC-949"],
+      "ultima_evidencia_fecha": "2026-09-17",
+      "semanas_sin_evidencia_nueva": 0,
+      "que_la_escalaria": "Acuerdos con universidades o gobiernos; métricas de adopción; reacción antimonopolio."
+    },
+    {
+      "id_senal": "SD-08",
+      "nombre_corto": "El \"impuesto del discernimiento\" (Anthropic)",
+      "primera_aparicion": "2026-09-22",
+      "cluster_origen": "Naturaleza del trabajo",
+      "estado_actual": "emergente",
+      "fuerza_actual": "Débil↑",
+      "historial_fuerza": [{"periodo": "2026-09-22", "valor": "Débil↑"}],
+      "evidencia_ids": ["VTC-857"],
+      "ultima_evidencia_fecha": "2026-09-10",
+      "semanas_sin_evidencia_nueva": 0,
+      "que_la_escalaria": "Adopción del marco conceptual por otros labs o consultoras; aparición en informes de gestión del cambio."
+    },
+    {
+      "id_senal": "SD-09",
+      "nombre_corto": "Ordenanza de San Mateo (robots + protección laboral)",
+      "primera_aparicion": "2026-09-22",
+      "cluster_origen": "Mercado laboral / regulación local",
+      "estado_actual": "emergente",
+      "fuerza_actual": "Débil↑",
+      "historial_fuerza": [{"periodo": "2026-09-22", "valor": "Débil↑"}],
+      "evidencia_ids": ["VTC-927","VTC-957"],
+      "ultima_evidencia_fecha": "2026-09-17",
+      "semanas_sin_evidencia_nueva": 0,
+      "que_la_escalaria": "Réplica en otros condados o estados de EE.UU.; litigios que la invoquen como precedente."
+    }
+  ],
+  "observaciones_huerfanas": ["VTC-810","VTC-819","VTC-823","VTC-833","VTC-907","VTC-1029"],
+  "observaciones_priorizadas_fuera_de_registro": "De las 239 observaciones del periodo, esta edición cita explícitamente ~55; el resto (sobre todo dentro de S-01, el clúster más voluminoso con 74 obs.) sustenta los mismos patrones sin aportar variación cualitativa nueva y no se detalla individualmente."
+}
