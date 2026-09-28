@@ -1,0 +1,93 @@
+<svg viewBox="0 0 1070 1160" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Now, Inter, Arial, sans-serif">
+<rect x="0" y="0" width="1070" height="1160" fill="#FFFFFF"/>
+<text x="170" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">17–31 ago 2026</text>
+<line x1="170" y1="46" x2="170" y2="1130" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="400" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">31 ago–7 sep 2026</text>
+<line x1="400" y1="46" x2="400" y2="1130" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="630" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">8–22 sep 2026</text>
+<line x1="630" y1="46" x2="630" y2="1130" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="860" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">23–28 sep 2026 (hoy)</text>
+<line x1="860" y1="46" x2="860" y2="1130" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<path d="M 170,70 C 285.0,70 285.0,70 400,70 L 400,174 C 285.0,174 285.0,174 170,174 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 400,70 C 515.0,70 515.0,70 630,70 L 630,174 C 515.0,174 515.0,174 400,174 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 630,70 C 745.0,70 745.0,70 860,70 L 860,174 C 745.0,174 745.0,174 630,174 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 170,184 C 285.0,184 285.0,184 400,184 L 400,236 C 285.0,236 285.0,236 170,236 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 374,262.0 C 387.0,262.0 387.0,236 400,236 L 400,288 C 387.0,288 387.0,262.001 374,262.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 400,184 C 515.0,184 515.0,184 630,184 L 630,288 C 515.0,288 515.0,288 400,288 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 630,184 C 745.0,184 745.0,184 860,184 L 860,288 C 745.0,288 745.0,288 630,288 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 170,246 C 285.0,246 285.0,298 400,298 L 400,350 C 285.0,350 285.0,298 170,298 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 374,376.0 C 387.0,376.0 387.0,350 400,350 L 400,402 C 387.0,402 387.0,376.001 374,376.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 400,298 C 515.0,298 515.0,298 630,298 L 630,402 C 515.0,402 515.0,402 400,402 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 630,298 C 745.0,298 745.0,298 860,298 L 860,402 C 745.0,402 745.0,402 630,402 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 604,464.0 C 617.0,464.0 617.0,412 630,412 L 630,516 C 617.0,516 617.0,464.001 604,464.001 Z" fill="#1F4E5F" fill-opacity="0.9" stroke="none"/>
+<path d="M 630,412 C 745.0,412 745.0,412 860,412 L 860,516 C 745.0,516 745.0,516 630,516 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 170,318 C 285.0,318 285.0,422 400,422 L 400,474 C 285.0,474 285.0,370 170,370 Z" fill="#5E8797" fill-opacity="0.85" stroke="none"/>
+<path d="M 400,422 C 515.0,422 515.0,526 630,526 L 630,578 C 515.0,578 515.0,474 400,474 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 604,604.0 C 617.0,604.0 617.0,578 630,578 L 630,630 C 617.0,630 617.0,604.001 604,604.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 630,526 C 745.0,526 745.0,526 860,526 L 860,630 C 745.0,630 745.0,630 630,630 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 374,510.0 C 387.0,510.0 387.0,484 400,484 L 400,536 C 387.0,536 387.0,510.001 374,510.001 Z" fill="#5E8797" fill-opacity="0.9" stroke="none"/>
+<path d="M 400,484 C 515.0,484 515.0,640 630,640 L 630,692 C 515.0,692 515.0,536 400,536 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 604,718.0 C 617.0,718.0 617.0,692 630,692 L 630,744 C 617.0,744 617.0,718.001 604,718.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 630,640 C 745.0,640 745.0,640 860,640 L 860,744 C 745.0,744 745.0,744 630,744 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 374,572.0 C 387.0,572.0 387.0,546 400,546 L 400,598 C 387.0,598 387.0,572.001 374,572.001 Z" fill="#5E8797" fill-opacity="0.9" stroke="none"/>
+<path d="M 400,546 C 515.0,546 515.0,754 630,754 L 630,806 C 515.0,806 515.0,598 400,598 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 604,832.0 C 617.0,832.0 617.0,806 630,806 L 630,858 C 617.0,858 617.0,832.001 604,832.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 630,754 C 745.0,754 745.0,754 860,754 L 860,858 C 745.0,858 745.0,858 630,858 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 170,400 C 285.0,400 285.0,608 400,608 L 400,660 C 285.0,660 285.0,452 170,452 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 400,608 C 515.0,608 515.0,868 630,868 L 630,920 C 515.0,920 515.0,660 400,660 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 604,946.0 C 617.0,946.0 617.0,920 630,920 L 630,972 C 617.0,972 617.0,946.001 604,946.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 630,868 C 745.0,868 745.0,868 860,868 L 860,972 C 745.0,972 745.0,972 630,972 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 374,683.0 C 387.0,683.0 387.0,670 400,670 L 400,696 C 387.0,696 387.0,683.001 374,683.001 Z" fill="#8A8A8A" fill-opacity="0.9" stroke="none"/>
+<path d="M 400,670 C 515.0,670 515.0,982 630,982 L 630,1008 C 515.0,1008 515.0,696 400,696 Z" fill="#8A8A8A" fill-opacity="0.85" stroke="none"/>
+<path d="M 630,982 C 745.0,982 745.0,982 860,982 L 860,1008 C 745.0,1008 745.0,1008 630,1008 Z" fill="#8A8A8A" fill-opacity="0.85" stroke="none"/>
+<path d="M 834,1012.3333333333334 C 847.0,1012.3333333333334 847.0,1008 860,1008 L 860,1016.6666666666666 C 847.0,1016.6666666666666 847.0,1012.3343333333333 834,1012.3343333333333 Z" fill="#8A8A8A" fill-opacity="0.55" stroke="none"/>
+<path d="M 400,363.0 C 515.0,363.0 515.0,412 630,412 L 630,451.0 C 515.0,451.0 515.0,402.0 400,402.0 Z" fill="#1F4E5F" fill-opacity="0.5" stroke="none"/>
+<rect x="167" y="70" width="6" height="104" fill="#1F4E5F"/>
+<text x="158" y="126.0" font-size="11.5" fill="#111111" text-anchor="end">Bifurcación laboral</text>
+<rect x="167" y="184" width="6" height="52" fill="#5E8797"/>
+<text x="158" y="214.0" font-size="11.5" fill="#111111" text-anchor="end">Gobernanza rebasada</text>
+<rect x="167" y="246" width="6" height="52" fill="#5E8797"/>
+<text x="158" y="276.0" font-size="11.5" fill="#111111" text-anchor="end">Robótica China</text>
+<rect x="167" y="318" width="6" height="52" fill="#5E8797"/>
+<text x="158" y="348.0" font-size="11.5" fill="#111111" text-anchor="end">Respuesta institucional</text>
+<rect x="167" y="400" width="6" height="104" fill="#1F4E5F"/>
+<text x="158" y="456.0" font-size="11.5" fill="#111111" text-anchor="end">IA en contratación</text>
+<rect x="397" y="70" width="6" height="104" fill="#1F4E5F"/>
+<rect x="397" y="184" width="6" height="104" fill="#1F4E5F"/>
+<rect x="397" y="298" width="6" height="104" fill="#1F4E5F"/>
+<rect x="397" y="422" width="6" height="52" fill="#5E8797"/>
+<rect x="397" y="484" width="6" height="52" fill="#5E8797"/>
+<text x="388" y="514.0" font-size="11.5" fill="#111111" text-anchor="end">Redefinición del trabajo</text>
+<rect x="397" y="546" width="6" height="52" fill="#5E8797"/>
+<text x="388" y="576.0" font-size="11.5" fill="#111111" text-anchor="end">Riesgo macro IA</text>
+<rect x="397" y="608" width="6" height="52" fill="#5E8797"/>
+<rect x="397" y="670" width="6" height="26" fill="#8A8A8A"/>
+<text x="388" y="687.0" font-size="11.5" fill="#111111" text-anchor="end">Señales débiles</text>
+<rect x="627" y="70" width="6" height="104" fill="#1F4E5F"/>
+<rect x="627" y="184" width="6" height="104" fill="#1F4E5F"/>
+<rect x="627" y="298" width="6" height="104" fill="#1F4E5F"/>
+<rect x="627" y="412" width="6" height="104" fill="#1F4E5F"/>
+<rect x="627" y="526" width="6" height="104" fill="#1F4E5F"/>
+<rect x="627" y="640" width="6" height="104" fill="#1F4E5F"/>
+<rect x="627" y="754" width="6" height="104" fill="#1F4E5F"/>
+<rect x="627" y="868" width="6" height="104" fill="#1F4E5F"/>
+<rect x="627" y="982" width="6" height="26" fill="#8A8A8A"/>
+<rect x="857" y="70" width="6" height="104" fill="#1F4E5F"/>
+<text x="872" y="126.0" font-size="11.5" fill="#111111" text-anchor="start">Bifurcación laboral</text>
+<rect x="857" y="184" width="6" height="104" fill="#1F4E5F"/>
+<text x="872" y="240.0" font-size="11.5" fill="#111111" text-anchor="start">Gobernanza rebasada</text>
+<rect x="857" y="298" width="6" height="104" fill="#1F4E5F"/>
+<text x="872" y="354.0" font-size="11.5" fill="#111111" text-anchor="start">Robótica China</text>
+<rect x="857" y="412" width="6" height="104" fill="#1F4E5F"/>
+<text x="872" y="468.0" font-size="11.5" fill="#111111" text-anchor="start">Robótica global</text>
+<rect x="857" y="526" width="6" height="104" fill="#1F4E5F"/>
+<text x="872" y="582.0" font-size="11.5" fill="#111111" text-anchor="start">Respuesta institucional</text>
+<rect x="857" y="640" width="6" height="104" fill="#1F4E5F"/>
+<text x="872" y="696.0" font-size="11.5" fill="#111111" text-anchor="start">Redefinición del trabajo</text>
+<rect x="857" y="754" width="6" height="104" fill="#1F4E5F"/>
+<text x="872" y="810.0" font-size="11.5" fill="#111111" text-anchor="start">Riesgo macro IA</text>
+<rect x="857" y="868" width="6" height="104" fill="#1F4E5F"/>
+<text x="872" y="924.0" font-size="11.5" fill="#111111" text-anchor="start">IA en contratación</text>
+<rect x="857" y="982" width="6" height="34.666666666666664" fill="#8A8A8A"/>
+<text x="872" y="1003.3333333333334" font-size="11.5" fill="#111111" text-anchor="start">Señales débiles</text>
+</svg>
