@@ -1,93 +1,113 @@
-<svg viewBox="0 0 1070 1160" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Now, Inter, Arial, sans-serif">
-<rect x="0" y="0" width="1070" height="1160" fill="#FFFFFF"/>
+<svg viewBox="0 0 1210 1470" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Now, Inter, Arial, sans-serif">
+<rect x="0" y="0" width="1210" height="1470" fill="#FFFFFF"/>
 <text x="170" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">17–31 ago 2026</text>
-<line x1="170" y1="46" x2="170" y2="1130" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
-<text x="400" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">31 ago–7 sep 2026</text>
-<line x1="400" y1="46" x2="400" y2="1130" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
-<text x="630" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">8–22 sep 2026</text>
-<line x1="630" y1="46" x2="630" y2="1130" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
-<text x="860" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">23–28 sep 2026 (hoy)</text>
-<line x1="860" y1="46" x2="860" y2="1130" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
-<path d="M 170,70 C 285.0,70 285.0,70 400,70 L 400,174 C 285.0,174 285.0,174 170,174 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 400,70 C 515.0,70 515.0,70 630,70 L 630,174 C 515.0,174 515.0,174 400,174 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 630,70 C 745.0,70 745.0,70 860,70 L 860,174 C 745.0,174 745.0,174 630,174 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 170,184 C 285.0,184 285.0,184 400,184 L 400,236 C 285.0,236 285.0,236 170,236 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 374,262.0 C 387.0,262.0 387.0,236 400,236 L 400,288 C 387.0,288 387.0,262.001 374,262.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
-<path d="M 400,184 C 515.0,184 515.0,184 630,184 L 630,288 C 515.0,288 515.0,288 400,288 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 630,184 C 745.0,184 745.0,184 860,184 L 860,288 C 745.0,288 745.0,288 630,288 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 170,246 C 285.0,246 285.0,298 400,298 L 400,350 C 285.0,350 285.0,298 170,298 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 374,376.0 C 387.0,376.0 387.0,350 400,350 L 400,402 C 387.0,402 387.0,376.001 374,376.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
-<path d="M 400,298 C 515.0,298 515.0,298 630,298 L 630,402 C 515.0,402 515.0,402 400,402 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 630,298 C 745.0,298 745.0,298 860,298 L 860,402 C 745.0,402 745.0,402 630,402 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 604,464.0 C 617.0,464.0 617.0,412 630,412 L 630,516 C 617.0,516 617.0,464.001 604,464.001 Z" fill="#1F4E5F" fill-opacity="0.9" stroke="none"/>
-<path d="M 630,412 C 745.0,412 745.0,412 860,412 L 860,516 C 745.0,516 745.0,516 630,516 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 170,318 C 285.0,318 285.0,422 400,422 L 400,474 C 285.0,474 285.0,370 170,370 Z" fill="#5E8797" fill-opacity="0.85" stroke="none"/>
-<path d="M 400,422 C 515.0,422 515.0,526 630,526 L 630,578 C 515.0,578 515.0,474 400,474 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 604,604.0 C 617.0,604.0 617.0,578 630,578 L 630,630 C 617.0,630 617.0,604.001 604,604.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
-<path d="M 630,526 C 745.0,526 745.0,526 860,526 L 860,630 C 745.0,630 745.0,630 630,630 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 374,510.0 C 387.0,510.0 387.0,484 400,484 L 400,536 C 387.0,536 387.0,510.001 374,510.001 Z" fill="#5E8797" fill-opacity="0.9" stroke="none"/>
-<path d="M 400,484 C 515.0,484 515.0,640 630,640 L 630,692 C 515.0,692 515.0,536 400,536 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 604,718.0 C 617.0,718.0 617.0,692 630,692 L 630,744 C 617.0,744 617.0,718.001 604,718.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
-<path d="M 630,640 C 745.0,640 745.0,640 860,640 L 860,744 C 745.0,744 745.0,744 630,744 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 374,572.0 C 387.0,572.0 387.0,546 400,546 L 400,598 C 387.0,598 387.0,572.001 374,572.001 Z" fill="#5E8797" fill-opacity="0.9" stroke="none"/>
-<path d="M 400,546 C 515.0,546 515.0,754 630,754 L 630,806 C 515.0,806 515.0,598 400,598 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 604,832.0 C 617.0,832.0 617.0,806 630,806 L 630,858 C 617.0,858 617.0,832.001 604,832.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
-<path d="M 630,754 C 745.0,754 745.0,754 860,754 L 860,858 C 745.0,858 745.0,858 630,858 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 170,400 C 285.0,400 285.0,608 400,608 L 400,660 C 285.0,660 285.0,452 170,452 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 400,608 C 515.0,608 515.0,868 630,868 L 630,920 C 515.0,920 515.0,660 400,660 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 604,946.0 C 617.0,946.0 617.0,920 630,920 L 630,972 C 617.0,972 617.0,946.001 604,946.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
-<path d="M 630,868 C 745.0,868 745.0,868 860,868 L 860,972 C 745.0,972 745.0,972 630,972 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
-<path d="M 374,683.0 C 387.0,683.0 387.0,670 400,670 L 400,696 C 387.0,696 387.0,683.001 374,683.001 Z" fill="#8A8A8A" fill-opacity="0.9" stroke="none"/>
-<path d="M 400,670 C 515.0,670 515.0,982 630,982 L 630,1008 C 515.0,1008 515.0,696 400,696 Z" fill="#8A8A8A" fill-opacity="0.85" stroke="none"/>
-<path d="M 630,982 C 745.0,982 745.0,982 860,982 L 860,1008 C 745.0,1008 745.0,1008 630,1008 Z" fill="#8A8A8A" fill-opacity="0.85" stroke="none"/>
-<path d="M 834,1012.3333333333334 C 847.0,1012.3333333333334 847.0,1008 860,1008 L 860,1016.6666666666666 C 847.0,1016.6666666666666 847.0,1012.3343333333333 834,1012.3343333333333 Z" fill="#8A8A8A" fill-opacity="0.55" stroke="none"/>
-<path d="M 400,363.0 C 515.0,363.0 515.0,412 630,412 L 630,451.0 C 515.0,451.0 515.0,402.0 400,402.0 Z" fill="#1F4E5F" fill-opacity="0.5" stroke="none"/>
-<rect x="167" y="70" width="6" height="104" fill="#1F4E5F"/>
-<text x="158" y="126.0" font-size="11.5" fill="#111111" text-anchor="end">Bifurcación laboral</text>
-<rect x="167" y="184" width="6" height="52" fill="#5E8797"/>
-<text x="158" y="214.0" font-size="11.5" fill="#111111" text-anchor="end">Gobernanza rebasada</text>
-<rect x="167" y="246" width="6" height="52" fill="#5E8797"/>
-<text x="158" y="276.0" font-size="11.5" fill="#111111" text-anchor="end">Robótica China</text>
-<rect x="167" y="318" width="6" height="52" fill="#5E8797"/>
-<text x="158" y="348.0" font-size="11.5" fill="#111111" text-anchor="end">Respuesta institucional</text>
-<rect x="167" y="400" width="6" height="104" fill="#1F4E5F"/>
-<text x="158" y="456.0" font-size="11.5" fill="#111111" text-anchor="end">IA en contratación</text>
-<rect x="397" y="70" width="6" height="104" fill="#1F4E5F"/>
-<rect x="397" y="184" width="6" height="104" fill="#1F4E5F"/>
-<rect x="397" y="298" width="6" height="104" fill="#1F4E5F"/>
-<rect x="397" y="422" width="6" height="52" fill="#5E8797"/>
-<rect x="397" y="484" width="6" height="52" fill="#5E8797"/>
-<text x="388" y="514.0" font-size="11.5" fill="#111111" text-anchor="end">Redefinición del trabajo</text>
-<rect x="397" y="546" width="6" height="52" fill="#5E8797"/>
-<text x="388" y="576.0" font-size="11.5" fill="#111111" text-anchor="end">Riesgo macro IA</text>
-<rect x="397" y="608" width="6" height="52" fill="#5E8797"/>
-<rect x="397" y="670" width="6" height="26" fill="#8A8A8A"/>
-<text x="388" y="687.0" font-size="11.5" fill="#111111" text-anchor="end">Señales débiles</text>
-<rect x="627" y="70" width="6" height="104" fill="#1F4E5F"/>
-<rect x="627" y="184" width="6" height="104" fill="#1F4E5F"/>
-<rect x="627" y="298" width="6" height="104" fill="#1F4E5F"/>
-<rect x="627" y="412" width="6" height="104" fill="#1F4E5F"/>
-<rect x="627" y="526" width="6" height="104" fill="#1F4E5F"/>
-<rect x="627" y="640" width="6" height="104" fill="#1F4E5F"/>
-<rect x="627" y="754" width="6" height="104" fill="#1F4E5F"/>
-<rect x="627" y="868" width="6" height="104" fill="#1F4E5F"/>
-<rect x="627" y="982" width="6" height="26" fill="#8A8A8A"/>
-<rect x="857" y="70" width="6" height="104" fill="#1F4E5F"/>
-<text x="872" y="126.0" font-size="11.5" fill="#111111" text-anchor="start">Bifurcación laboral</text>
-<rect x="857" y="184" width="6" height="104" fill="#1F4E5F"/>
-<text x="872" y="240.0" font-size="11.5" fill="#111111" text-anchor="start">Gobernanza rebasada</text>
-<rect x="857" y="298" width="6" height="104" fill="#1F4E5F"/>
-<text x="872" y="354.0" font-size="11.5" fill="#111111" text-anchor="start">Robótica China</text>
-<rect x="857" y="412" width="6" height="104" fill="#1F4E5F"/>
-<text x="872" y="468.0" font-size="11.5" fill="#111111" text-anchor="start">Robótica global</text>
-<rect x="857" y="526" width="6" height="104" fill="#1F4E5F"/>
-<text x="872" y="582.0" font-size="11.5" fill="#111111" text-anchor="start">Respuesta institucional</text>
-<rect x="857" y="640" width="6" height="104" fill="#1F4E5F"/>
-<text x="872" y="696.0" font-size="11.5" fill="#111111" text-anchor="start">Redefinición del trabajo</text>
-<rect x="857" y="754" width="6" height="104" fill="#1F4E5F"/>
-<text x="872" y="810.0" font-size="11.5" fill="#111111" text-anchor="start">Riesgo macro IA</text>
-<rect x="857" y="868" width="6" height="104" fill="#1F4E5F"/>
-<text x="872" y="924.0" font-size="11.5" fill="#111111" text-anchor="start">IA en contratación</text>
-<rect x="857" y="982" width="6" height="34.666666666666664" fill="#8A8A8A"/>
-<text x="872" y="1003.3333333333334" font-size="11.5" fill="#111111" text-anchor="start">Señales débiles</text>
+<line x1="170" y1="46" x2="170" y2="1450" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="430" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">31 ago–7 sep 2026</text>
+<line x1="430" y1="46" x2="430" y2="1450" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="690" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">8–22 sep 2026</text>
+<line x1="690" y1="46" x2="690" y2="1450" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="950" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">23–28 sep 2026 (hoy)</text>
+<line x1="950" y1="46" x2="950" y2="1450" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<path d="M 170,70 C 300.0,70 300.0,70 430,70 L 430,170 C 300.0,170 300.0,170 170,170 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 430,70 C 560.0,70 560.0,70 690,70 L 690,170 C 560.0,170 560.0,170 430,170 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 690,70 C 820.0,70 820.0,70 950,70 L 950,170 C 820.0,170 820.0,170 690,170 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 924,195.0 C 937.0,195.0 937.0,170 950,170 L 950,220 C 937.0,220 937.0,195.001 924,195.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 170,178 C 300.0,178 300.0,178 430,178 L 430,218 C 300.0,218 300.0,218 170,218 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 404,248.0 C 417.0,248.0 417.0,218 430,218 L 430,278 C 417.0,278 417.0,248.001 404,248.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 430,178 C 560.0,178 560.0,178 690,178 L 690,278 C 560.0,278 560.0,278 430,278 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 664,283.0 C 677.0,283.0 677.0,278 690,278 L 690,288 C 677.0,288 677.0,283.001 664,283.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 690,178 C 820.0,178 820.0,228 950,228 L 950,338 C 820.0,338 820.0,288 690,288 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 924,358.0 C 937.0,358.0 937.0,338 950,338 L 950,378 C 937.0,378 937.0,358.001 924,358.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 170,226 C 300.0,226 300.0,286 430,286 L 430,326 C 300.0,326 300.0,266 170,266 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 404,356.0 C 417.0,356.0 417.0,326 430,326 L 430,386 C 417.0,386 417.0,356.001 404,356.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 430,286 C 560.0,286 560.0,296 690,296 L 690,396 C 560.0,396 560.0,386 430,386 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 690,296 C 820.0,296 820.0,386 950,386 L 950,486 C 820.0,486 820.0,396 690,396 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 924,496.0 C 937.0,496.0 937.0,486 950,486 L 950,506 C 937.0,506 937.0,496.001 924,496.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 170,274 C 300.0,274 300.0,394 430,394 L 430,434 C 300.0,434 300.0,314 170,314 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 430,394 C 560.0,394 560.0,404 690,404 L 690,444 C 560.0,444 560.0,434 430,434 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 664,469.0 C 677.0,469.0 677.0,444 690,444 L 690,494 C 677.0,494 677.0,469.001 664,469.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 690,404 C 820.0,404 820.0,514 950,514 L 950,604 C 820.0,604 820.0,494 690,494 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 924,619.0 C 937.0,619.0 937.0,604 950,604 L 950,634 C 937.0,634 937.0,619.001 924,619.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 404,462.0 C 417.0,462.0 417.0,442 430,442 L 430,482 C 417.0,482 417.0,462.001 404,462.001 Z" fill="#1F4E5F" fill-opacity="0.9" stroke="none"/>
+<path d="M 430,442 C 560.0,442 560.0,502 690,502 L 690,542 C 560.0,542 560.0,482 430,482 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 664,577.0 C 677.0,577.0 677.0,542 690,542 L 690,612 C 677.0,612 677.0,577.001 664,577.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 690,502 C 820.0,502 820.0,642 950,642 L 950,752 C 820.0,752 820.0,612 690,612 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 924,767.0 C 937.0,767.0 937.0,752 950,752 L 950,782 C 937.0,782 937.0,767.001 924,767.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 404,510.0 C 417.0,510.0 417.0,490 430,490 L 430,530 C 417.0,530 417.0,510.001 404,510.001 Z" fill="#1F4E5F" fill-opacity="0.9" stroke="none"/>
+<path d="M 430,490 C 560.0,490 560.0,620 690,620 L 690,660 C 560.0,660 560.0,530 430,530 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 664,680.0 C 677.0,680.0 677.0,660 690,660 L 690,700 C 677.0,700 677.0,680.001 664,680.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 690,620 C 820.0,620 820.0,790 950,790 L 950,870 C 820.0,870 820.0,700 690,700 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 924,880.0 C 937.0,880.0 937.0,870 950,870 L 950,890 C 937.0,890 937.0,880.001 924,880.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 664,758.0 C 677.0,758.0 677.0,708 690,708 L 690,808 C 677.0,808 677.0,758.001 664,758.001 Z" fill="#1F4E5F" fill-opacity="0.9" stroke="none"/>
+<path d="M 690,708 C 820.0,708 820.0,898 950,898 L 950,998 C 820.0,998 820.0,808 690,808 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 924,1038.0 C 937.0,1038.0 937.0,998 950,998 L 950,1078 C 937.0,1078 937.0,1038.001 924,1038.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 170,346 C 300.0,346 300.0,546 430,546 L 430,586 C 300.0,586 300.0,386 170,386 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 430,546 C 560.0,546 560.0,816 690,816 L 690,856 C 560.0,856 560.0,586 430,586 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 664,886.0 C 677.0,886.0 677.0,856 690,856 L 690,916 C 677.0,916 677.0,886.001 664,886.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 690,816 C 820.0,816 820.0,1086 950,1086 L 950,1186 C 820.0,1186 820.0,916 690,916 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 924,1206.0 C 937.0,1206.0 937.0,1186 950,1186 L 950,1226 C 937.0,1226 937.0,1206.001 924,1206.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 924,1249.0 C 937.0,1249.0 937.0,1234 950,1234 L 950,1264 C 937.0,1264 937.0,1249.001 924,1249.001 Z" fill="#5E8797" fill-opacity="0.9" stroke="none"/>
+<path d="M 664,942.0 C 677.0,942.0 677.0,932 690,932 L 690,952 C 677.0,952 677.0,942.001 664,942.001 Z" fill="#5E8797" fill-opacity="0.9" stroke="none"/>
+<path d="M 690,932 C 820.0,932 820.0,1272 950,1272 L 950,1292 C 820.0,1292 820.0,952 690,952 Z" fill="#5E8797" fill-opacity="0.85" stroke="none"/>
+<path d="M 404,635.0 C 417.0,635.0 417.0,610 430,610 L 430,660 C 417.0,660 417.0,635.001 404,635.001 Z" fill="#8A8A8A" fill-opacity="0.9" stroke="none"/>
+<path d="M 430,610 C 560.0,610 560.0,960 690,960 L 690,1010 C 560.0,1010 560.0,660 430,660 Z" fill="#8A8A8A" fill-opacity="0.85" stroke="none"/>
+<path d="M 664,1025.0 C 677.0,1025.0 677.0,1010 690,1010 L 690,1040 C 677.0,1040 677.0,1025.001 664,1025.001 Z" fill="#8A8A8A" fill-opacity="0.55" stroke="none"/>
+<path d="M 690,960 C 820.0,960 820.0,1300 950,1300 L 950,1380 C 820.0,1380 820.0,1040 690,1040 Z" fill="#8A8A8A" fill-opacity="0.85" stroke="none"/>
+<path d="M 924,1390.0 C 937.0,1390.0 937.0,1380 950,1380 L 950,1400 C 937.0,1400 937.0,1390.001 924,1390.001 Z" fill="#8A8A8A" fill-opacity="0.55" stroke="none"/>
+<path d="M 430,356 C 560.0,356 560.0,708 690,708 L 690,738 C 560.0,738 560.0,386 430,386 Z" fill="#1F4E5F" fill-opacity="0.45" stroke="none"/>
+<rect x="167" y="70" width="6" height="100" fill="#1F4E5F"/>
+<text x="158" y="124.0" font-size="11.5" fill="#111111" text-anchor="end">Bifurcación laboral</text>
+<rect x="167" y="178" width="6" height="40" fill="#1F4E5F"/>
+<text x="158" y="202.0" font-size="11.5" fill="#111111" text-anchor="end">Gobernanza rebasada</text>
+<rect x="167" y="226" width="6" height="40" fill="#1F4E5F"/>
+<text x="158" y="250.0" font-size="11.5" fill="#111111" text-anchor="end">Robótica China</text>
+<rect x="167" y="274" width="6" height="40" fill="#1F4E5F"/>
+<text x="158" y="298.0" font-size="11.5" fill="#111111" text-anchor="end">Respuesta institucional</text>
+<rect x="167" y="346" width="6" height="100" fill="#1F4E5F"/>
+<text x="158" y="400.0" font-size="11.5" fill="#111111" text-anchor="end">IA en contratación</text>
+<rect x="427" y="70" width="6" height="100" fill="#1F4E5F"/>
+<rect x="427" y="178" width="6" height="100" fill="#1F4E5F"/>
+<rect x="427" y="286" width="6" height="100" fill="#1F4E5F"/>
+<rect x="427" y="394" width="6" height="40" fill="#1F4E5F"/>
+<rect x="427" y="442" width="6" height="40" fill="#1F4E5F"/>
+<text x="418" y="466.0" font-size="11.5" fill="#111111" text-anchor="end">Redefinición del trabajo</text>
+<rect x="427" y="490" width="6" height="40" fill="#1F4E5F"/>
+<text x="418" y="514.0" font-size="11.5" fill="#111111" text-anchor="end">Riesgo macro IA</text>
+<rect x="427" y="546" width="6" height="40" fill="#1F4E5F"/>
+<rect x="427" y="610" width="6" height="50" fill="#8A8A8A"/>
+<text x="418" y="639.0" font-size="11.5" fill="#111111" text-anchor="end">Otras señales débiles</text>
+<rect x="687" y="70" width="6" height="100" fill="#1F4E5F"/>
+<rect x="687" y="178" width="6" height="110" fill="#1F4E5F"/>
+<rect x="687" y="296" width="6" height="100" fill="#1F4E5F"/>
+<rect x="687" y="404" width="6" height="90" fill="#1F4E5F"/>
+<rect x="687" y="502" width="6" height="110" fill="#1F4E5F"/>
+<rect x="687" y="620" width="6" height="80" fill="#1F4E5F"/>
+<rect x="687" y="708" width="6" height="100" fill="#1F4E5F"/>
+<text x="678" y="762.0" font-size="11.5" fill="#111111" text-anchor="end">Robótica global</text>
+<rect x="687" y="816" width="6" height="100" fill="#1F4E5F"/>
+<rect x="687" y="932" width="6" height="20" fill="#5E8797"/>
+<text x="678" y="946.0" font-size="11.5" fill="#111111" text-anchor="end">Ordenanza San Mateo</text>
+<rect x="687" y="960" width="6" height="80" fill="#8A8A8A"/>
+<rect x="947" y="70" width="6" height="150" fill="#1F4E5F"/>
+<text x="962" y="149.0" font-size="11.5" fill="#111111" text-anchor="start">Bifurcación laboral (15)</text>
+<rect x="947" y="228" width="6" height="150" fill="#1F4E5F"/>
+<text x="962" y="307.0" font-size="11.5" fill="#111111" text-anchor="start">Gobernanza rebasada (15)</text>
+<rect x="947" y="386" width="6" height="120" fill="#1F4E5F"/>
+<text x="962" y="450.0" font-size="11.5" fill="#111111" text-anchor="start">Robótica China (12)</text>
+<rect x="947" y="514" width="6" height="120" fill="#1F4E5F"/>
+<text x="962" y="578.0" font-size="11.5" fill="#111111" text-anchor="start">Respuesta institucional (12)</text>
+<rect x="947" y="642" width="6" height="140" fill="#1F4E5F"/>
+<text x="962" y="716.0" font-size="11.5" fill="#111111" text-anchor="start">Redefinición del trabajo (14)</text>
+<rect x="947" y="790" width="6" height="100" fill="#1F4E5F"/>
+<text x="962" y="844.0" font-size="11.5" fill="#111111" text-anchor="start">Riesgo macro IA (10)</text>
+<rect x="947" y="898" width="6" height="180" fill="#1F4E5F"/>
+<text x="962" y="992.0" font-size="11.5" fill="#111111" text-anchor="start">Robótica global (18)</text>
+<rect x="947" y="1086" width="6" height="140" fill="#1F4E5F"/>
+<text x="962" y="1160.0" font-size="11.5" fill="#111111" text-anchor="start">IA en contratación (14)</text>
+<rect x="947" y="1234" width="6" height="30" fill="#5E8797"/>
+<text x="962" y="1253.0" font-size="11.5" fill="#111111" text-anchor="start">Riesgo existencial IA (discurso) (3)</text>
+<rect x="947" y="1272" width="6" height="20" fill="#5E8797"/>
+<text x="962" y="1286.0" font-size="11.5" fill="#111111" text-anchor="start">Ordenanza San Mateo (2)</text>
+<rect x="947" y="1300" width="6" height="100" fill="#8A8A8A"/>
+<text x="962" y="1354.0" font-size="11.5" fill="#111111" text-anchor="start">Otras señales débiles (10)</text>
 </svg>
