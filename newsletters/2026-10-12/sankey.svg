@@ -1,0 +1,186 @@
+<svg viewBox="0 0 1320 2168" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica Now, Inter, Arial, sans-serif">
+<rect x="0" y="0" width="1320" height="2168" fill="#FFFFFF"/>
+<text x="140" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">17–31 ago 2026</text>
+<line x1="140" y1="46" x2="140" y2="2148" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="330" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">31 ago–7 sep 2026</text>
+<line x1="330" y1="46" x2="330" y2="2148" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="520" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">8–22 sep 2026</text>
+<line x1="520" y1="46" x2="520" y2="2148" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="710" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">23–28 sep 2026</text>
+<line x1="710" y1="46" x2="710" y2="2148" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="900" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">29 sep–3 oct 2026</text>
+<line x1="900" y1="46" x2="900" y2="2148" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<text x="1090" y="36" font-size="12.5" font-weight="700" fill="#111111" text-anchor="middle">4–10 oct 2026 (hoy)</text>
+<line x1="1090" y1="46" x2="1090" y2="2148" stroke="#8A8A8A" stroke-opacity="0.25" stroke-width="1"/>
+<path d="M 140,70 C 235.0,70 235.0,70 330,70 L 330,170 C 235.0,170 235.0,170 140,170 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 330,70 C 425.0,70 425.0,70 520,70 L 520,170 C 425.0,170 425.0,170 330,170 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 520,70 C 615.0,70 615.0,70 710,70 L 710,170 C 615.0,170 615.0,170 520,170 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 684,195.0 C 697.0,195.0 697.0,170 710,170 L 710,220 C 697.0,220 697.0,195.001 684,195.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 710,70 C 805.0,70 805.0,70 900,70 L 900,220 C 805.0,220 805.0,220 710,220 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,245.0 C 887.0,245.0 887.0,220 900,220 L 900,270 C 887.0,270 887.0,245.001 874,245.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,70 C 995.0,70 995.0,70 1090,70 L 1090,270 C 995.0,270 995.0,270 900,270 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 1064,295.0 C 1077.0,295.0 1077.0,270 1090,270 L 1090,320 C 1077.0,320 1077.0,295.001 1064,295.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 140,178 C 235.0,178 235.0,178 330,178 L 330,218 C 235.0,218 235.0,218 140,218 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 304,248.0 C 317.0,248.0 317.0,218 330,218 L 330,278 C 317.0,278 317.0,248.001 304,248.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 330,178 C 425.0,178 425.0,178 520,178 L 520,278 C 425.0,278 425.0,278 330,278 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 494,283.0 C 507.0,283.0 507.0,278 520,278 L 520,288 C 507.0,288 507.0,283.001 494,283.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 520,178 C 615.0,178 615.0,228 710,228 L 710,338 C 615.0,338 615.0,288 520,288 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 684,358.0 C 697.0,358.0 697.0,338 710,338 L 710,378 C 697.0,378 697.0,358.001 684,358.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 710,228 C 805.0,228 805.0,278 900,278 L 900,428 C 805.0,428 805.0,378 710,378 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,448.0 C 887.0,448.0 887.0,428 900,428 L 900,468 C 887.0,468 887.0,448.001 874,448.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,278 C 995.0,278 995.0,328 1090,328 L 1090,518 C 995.0,518 995.0,468 900,468 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 1064,533.0 C 1077.0,533.0 1077.0,518 1090,518 L 1090,548 C 1077.0,548 1077.0,533.001 1064,533.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 140,226 C 235.0,226 235.0,286 330,286 L 330,326 C 235.0,326 235.0,266 140,266 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 304,356.0 C 317.0,356.0 317.0,326 330,326 L 330,386 C 317.0,386 317.0,356.001 304,356.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 330,286 C 425.0,286 425.0,296 520,296 L 520,396 C 425.0,396 425.0,386 330,386 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 520,296 C 615.0,296 615.0,386 710,386 L 710,486 C 615.0,486 615.0,396 520,396 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 684,496.0 C 697.0,496.0 697.0,486 710,486 L 710,506 C 697.0,506 697.0,496.001 684,496.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 710,386 C 805.0,386 805.0,476 900,476 L 900,596 C 805.0,596 805.0,506 710,506 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,611.0 C 887.0,611.0 887.0,596 900,596 L 900,626 C 887.0,626 887.0,611.001 874,611.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,476 C 995.0,476 995.0,556 1090,556 L 1090,706 C 995.0,706 995.0,626 900,626 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 1064,716.0 C 1077.0,716.0 1077.0,706 1090,706 L 1090,726 C 1077.0,726 1077.0,716.001 1064,716.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 140,274 C 235.0,274 235.0,394 330,394 L 330,434 C 235.0,434 235.0,314 140,314 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 330,394 C 425.0,394 425.0,404 520,404 L 520,444 C 425.0,444 425.0,434 330,434 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 494,469.0 C 507.0,469.0 507.0,444 520,444 L 520,494 C 507.0,494 507.0,469.001 494,469.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 520,404 C 615.0,404 615.0,514 710,514 L 710,604 C 615.0,604 615.0,494 520,494 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 684,619.0 C 697.0,619.0 697.0,604 710,604 L 710,634 C 697.0,634 697.0,619.001 684,619.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 710,514 C 805.0,514 805.0,634 900,634 L 900,754 C 805.0,754 805.0,634 710,634 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,769.0 C 887.0,769.0 887.0,754 900,754 L 900,784 C 887.0,784 887.0,769.001 874,769.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,634 C 995.0,634 995.0,734 1090,734 L 1090,884 C 995.0,884 995.0,784 900,784 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 1064,904.0 C 1077.0,904.0 1077.0,884 1090,884 L 1090,924 C 1077.0,924 1077.0,904.001 1064,904.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 304,462.0 C 317.0,462.0 317.0,442 330,442 L 330,482 C 317.0,482 317.0,462.001 304,462.001 Z" fill="#1F4E5F" fill-opacity="0.9" stroke="none"/>
+<path d="M 330,442 C 425.0,442 425.0,502 520,502 L 520,542 C 425.0,542 425.0,482 330,482 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 494,577.0 C 507.0,577.0 507.0,542 520,542 L 520,612 C 507.0,612 507.0,577.001 494,577.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 520,502 C 615.0,502 615.0,642 710,642 L 710,752 C 615.0,752 615.0,612 520,612 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 684,767.0 C 697.0,767.0 697.0,752 710,752 L 710,782 C 697.0,782 697.0,767.001 684,767.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 710,642 C 805.0,642 805.0,792 900,792 L 900,932 C 805.0,932 805.0,782 710,782 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,952.0 C 887.0,952.0 887.0,932 900,932 L 900,972 C 887.0,972 887.0,952.001 874,952.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,792 C 995.0,792 995.0,932 1090,932 L 1090,1112 C 995.0,1112 995.0,972 900,972 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 1064,1132.0 C 1077.0,1132.0 1077.0,1112 1090,1112 L 1090,1152 C 1077.0,1152 1077.0,1132.001 1064,1132.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 304,510.0 C 317.0,510.0 317.0,490 330,490 L 330,530 C 317.0,530 317.0,510.001 304,510.001 Z" fill="#1F4E5F" fill-opacity="0.9" stroke="none"/>
+<path d="M 330,490 C 425.0,490 425.0,620 520,620 L 520,660 C 425.0,660 425.0,530 330,530 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 494,680.0 C 507.0,680.0 507.0,660 520,660 L 520,700 C 507.0,700 507.0,680.001 494,680.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 520,620 C 615.0,620 615.0,790 710,790 L 710,870 C 615.0,870 615.0,700 520,700 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 684,880.0 C 697.0,880.0 697.0,870 710,870 L 710,890 C 697.0,890 697.0,880.001 684,880.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 710,790 C 805.0,790 805.0,980 900,980 L 900,1080 C 805.0,1080 805.0,890 710,890 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,1095.0 C 887.0,1095.0 887.0,1080 900,1080 L 900,1110 C 887.0,1110 887.0,1095.001 874,1095.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,980 C 995.0,980 995.0,1160 1090,1160 L 1090,1290 C 995.0,1290 995.0,1110 900,1110 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 1064,1310.0 C 1077.0,1310.0 1077.0,1290 1090,1290 L 1090,1330 C 1077.0,1330 1077.0,1310.001 1064,1310.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 494,758.0 C 507.0,758.0 507.0,708 520,708 L 520,808 C 507.0,808 507.0,758.001 494,758.001 Z" fill="#1F4E5F" fill-opacity="0.9" stroke="none"/>
+<path d="M 520,708 C 615.0,708 615.0,898 710,898 L 710,998 C 615.0,998 615.0,808 520,808 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 684,1038.0 C 697.0,1038.0 697.0,998 710,998 L 710,1078 C 697.0,1078 697.0,1038.001 684,1038.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 710,898 C 805.0,898 805.0,1118 900,1118 L 900,1298 C 805.0,1298 805.0,1078 710,1078 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,1328.0 C 887.0,1328.0 887.0,1298 900,1298 L 900,1358 C 887.0,1358 887.0,1328.001 874,1328.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,1118 C 995.0,1118 995.0,1338 1090,1338 L 1090,1578 C 995.0,1578 995.0,1358 900,1358 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 1064,1603.0 C 1077.0,1603.0 1077.0,1578 1090,1578 L 1090,1628 C 1077.0,1628 1077.0,1603.001 1064,1603.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 140,346 C 235.0,346 235.0,546 330,546 L 330,586 C 235.0,586 235.0,386 140,386 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 330,546 C 425.0,546 425.0,816 520,816 L 520,856 C 425.0,856 425.0,586 330,586 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 494,886.0 C 507.0,886.0 507.0,856 520,856 L 520,916 C 507.0,916 507.0,886.001 494,886.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 520,816 C 615.0,816 615.0,1086 710,1086 L 710,1186 C 615.0,1186 615.0,916 520,916 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 684,1206.0 C 697.0,1206.0 697.0,1186 710,1186 L 710,1226 C 697.0,1226 697.0,1206.001 684,1206.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 710,1086 C 805.0,1086 805.0,1366 900,1366 L 900,1506 C 805.0,1506 805.0,1226 710,1226 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,1516.0 C 887.0,1516.0 887.0,1506 900,1506 L 900,1526 C 887.0,1526 887.0,1516.001 874,1516.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,1366 C 995.0,1366 995.0,1636 1090,1636 L 1090,1796 C 995.0,1796 995.0,1526 900,1526 Z" fill="#1F4E5F" fill-opacity="0.85" stroke="none"/>
+<path d="M 1064,1806.0 C 1077.0,1806.0 1077.0,1796 1090,1796 L 1090,1816 C 1077.0,1816 1077.0,1806.001 1064,1806.001 Z" fill="#1F4E5F" fill-opacity="0.55" stroke="none"/>
+<path d="M 684,1249.0 C 697.0,1249.0 697.0,1234 710,1234 L 710,1264 C 697.0,1264 697.0,1249.001 684,1249.001 Z" fill="#5E8797" fill-opacity="0.9" stroke="none"/>
+<path d="M 710,1234 C 805.0,1234 805.0,1534 900,1534 L 900,1564 C 805.0,1564 805.0,1264 710,1264 Z" fill="#5E8797" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,1569.0 C 887.0,1569.0 887.0,1564 900,1564 L 900,1574 C 887.0,1574 887.0,1569.001 874,1569.001 Z" fill="#5E8797" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,1534 C 995.0,1534 995.0,1824 1090,1824 L 1090,1864 C 995.0,1864 995.0,1574 900,1574 Z" fill="#5E8797" fill-opacity="0.85" stroke="none"/>
+<path d="M 494,937.0 C 507.0,937.0 507.0,932 520,932 L 520,942 C 507.0,942 507.0,937.001 494,937.001 Z" fill="#5E8797" fill-opacity="0.9" stroke="none"/>
+<path d="M 520,932 C 615.0,932 615.0,1272 710,1272 L 710,1282 C 615.0,1282 615.0,942 520,942 Z" fill="#5E8797" fill-opacity="0.85" stroke="none"/>
+<path d="M 710,1272 C 805.0,1272 805.0,1582 900,1582 L 900,1592 C 805.0,1592 805.0,1282 710,1282 Z" fill="#5E8797" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,1597.0 C 887.0,1597.0 887.0,1592 900,1592 L 900,1602 C 887.0,1602 887.0,1597.001 874,1597.001 Z" fill="#5E8797" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,1582 C 995.0,1582 995.0,1872 1090,1872 L 1090,1892 C 995.0,1892 995.0,1602 900,1602 Z" fill="#5E8797" fill-opacity="0.85" stroke="none"/>
+<path d="M 1064,1897.0 C 1077.0,1897.0 1077.0,1892 1090,1892 L 1090,1902 C 1077.0,1902 1077.0,1897.001 1064,1897.001 Z" fill="#5E8797" fill-opacity="0.55" stroke="none"/>
+<path d="M 304,635.0 C 317.0,635.0 317.0,610 330,610 L 330,660 C 317.0,660 317.0,635.001 304,635.001 Z" fill="#8A8A8A" fill-opacity="0.9" stroke="none"/>
+<path d="M 330,610 C 425.0,610 425.0,950 520,950 L 520,1000 C 425.0,1000 425.0,660 330,660 Z" fill="#8A8A8A" fill-opacity="0.85" stroke="none"/>
+<path d="M 494,1020.0 C 507.0,1020.0 507.0,1000 520,1000 L 520,1040 C 507.0,1040 507.0,1020.001 494,1020.001 Z" fill="#8A8A8A" fill-opacity="0.55" stroke="none"/>
+<path d="M 520,950 C 615.0,950 615.0,1290 710,1290 L 710,1380 C 615.0,1380 615.0,1040 520,1040 Z" fill="#8A8A8A" fill-opacity="0.85" stroke="none"/>
+<path d="M 684,1390.0 C 697.0,1390.0 697.0,1380 710,1380 L 710,1400 C 697.0,1400 697.0,1390.001 684,1390.001 Z" fill="#8A8A8A" fill-opacity="0.55" stroke="none"/>
+<path d="M 710,1290 C 805.0,1290 805.0,1610 900,1610 L 900,1720 C 805.0,1720 805.0,1400 710,1400 Z" fill="#8A8A8A" fill-opacity="0.85" stroke="none"/>
+<path d="M 874,1730.0 C 887.0,1730.0 887.0,1720 900,1720 L 900,1740 C 887.0,1740 887.0,1730.001 874,1730.001 Z" fill="#8A8A8A" fill-opacity="0.55" stroke="none"/>
+<path d="M 900,1610 C 995.0,1610 995.0,1910 1090,1910 L 1090,2040 C 995.0,2040 995.0,1740 900,1740 Z" fill="#8A8A8A" fill-opacity="0.85" stroke="none"/>
+<path d="M 1064,2045.0 C 1077.0,2045.0 1077.0,2040 1090,2040 L 1090,2050 C 1077.0,2050 1077.0,2045.001 1064,2045.001 Z" fill="#8A8A8A" fill-opacity="0.55" stroke="none"/>
+<path d="M 1064,2078.0 C 1077.0,2078.0 1077.0,2058 1090,2058 L 1090,2098 C 1077.0,2098 1077.0,2078.001 1064,2078.001 Z" fill="#D4D4D4" fill-opacity="0.9" stroke="none"/>
+<path d="M 330,356 C 425.0,356 425.0,708 520,708 L 520,738 C 425.0,738 425.0,386 330,386 Z" fill="#1F4E5F" fill-opacity="0.45" stroke="none"/>
+<rect x="137" y="70" width="6" height="100" fill="#1F4E5F"/>
+<text x="128" y="124.0" font-size="11.5" fill="#111111" text-anchor="end">Bifurcación laboral</text>
+<rect x="137" y="178" width="6" height="40" fill="#1F4E5F"/>
+<text x="128" y="202.0" font-size="11.5" fill="#111111" text-anchor="end">Gobernanza rebasada</text>
+<rect x="137" y="226" width="6" height="40" fill="#1F4E5F"/>
+<text x="128" y="250.0" font-size="11.5" fill="#111111" text-anchor="end">Robótica China</text>
+<rect x="137" y="274" width="6" height="40" fill="#1F4E5F"/>
+<text x="128" y="298.0" font-size="11.5" fill="#111111" text-anchor="end">Respuesta institucional</text>
+<rect x="137" y="346" width="6" height="100" fill="#1F4E5F"/>
+<text x="128" y="400.0" font-size="11.5" fill="#111111" text-anchor="end">IA en contratación</text>
+<rect x="327" y="70" width="6" height="100" fill="#1F4E5F"/>
+<rect x="327" y="178" width="6" height="100" fill="#1F4E5F"/>
+<rect x="327" y="286" width="6" height="100" fill="#1F4E5F"/>
+<rect x="327" y="394" width="6" height="40" fill="#1F4E5F"/>
+<rect x="327" y="442" width="6" height="40" fill="#1F4E5F"/>
+<text x="318" y="466.0" font-size="11.5" fill="#111111" text-anchor="end">Redefinición del trabajo</text>
+<rect x="327" y="490" width="6" height="40" fill="#1F4E5F"/>
+<text x="318" y="514.0" font-size="11.5" fill="#111111" text-anchor="end">Riesgo macro IA</text>
+<rect x="327" y="546" width="6" height="40" fill="#1F4E5F"/>
+<rect x="327" y="610" width="6" height="50" fill="#8A8A8A"/>
+<text x="318" y="639.0" font-size="11.5" fill="#111111" text-anchor="end">Otras señales débiles</text>
+<rect x="517" y="70" width="6" height="100" fill="#1F4E5F"/>
+<rect x="517" y="178" width="6" height="110" fill="#1F4E5F"/>
+<rect x="517" y="296" width="6" height="100" fill="#1F4E5F"/>
+<rect x="517" y="404" width="6" height="90" fill="#1F4E5F"/>
+<rect x="517" y="502" width="6" height="110" fill="#1F4E5F"/>
+<rect x="517" y="620" width="6" height="80" fill="#1F4E5F"/>
+<rect x="517" y="708" width="6" height="100" fill="#1F4E5F"/>
+<text x="508" y="762.0" font-size="11.5" fill="#111111" text-anchor="end">Robótica global</text>
+<rect x="517" y="816" width="6" height="100" fill="#1F4E5F"/>
+<rect x="517" y="932" width="6" height="10" fill="#5E8797"/>
+<text x="508" y="941.0" font-size="11.5" fill="#111111" text-anchor="end">Robots-soldado (Pentágono)</text>
+<rect x="517" y="950" width="6" height="90" fill="#8A8A8A"/>
+<rect x="707" y="70" width="6" height="150" fill="#1F4E5F"/>
+<rect x="707" y="228" width="6" height="150" fill="#1F4E5F"/>
+<rect x="707" y="386" width="6" height="120" fill="#1F4E5F"/>
+<rect x="707" y="514" width="6" height="120" fill="#1F4E5F"/>
+<rect x="707" y="642" width="6" height="140" fill="#1F4E5F"/>
+<rect x="707" y="790" width="6" height="100" fill="#1F4E5F"/>
+<rect x="707" y="898" width="6" height="180" fill="#1F4E5F"/>
+<rect x="707" y="1086" width="6" height="140" fill="#1F4E5F"/>
+<rect x="707" y="1234" width="6" height="30" fill="#5E8797"/>
+<text x="698" y="1253.0" font-size="11.5" fill="#111111" text-anchor="end">Riesgo existencial IA (discurso)</text>
+<rect x="707" y="1272" width="6" height="10" fill="#5E8797"/>
+<rect x="707" y="1290" width="6" height="110" fill="#8A8A8A"/>
+<rect x="897" y="70" width="6" height="200" fill="#1F4E5F"/>
+<rect x="897" y="278" width="6" height="190" fill="#1F4E5F"/>
+<rect x="897" y="476" width="6" height="150" fill="#1F4E5F"/>
+<rect x="897" y="634" width="6" height="150" fill="#1F4E5F"/>
+<rect x="897" y="792" width="6" height="180" fill="#1F4E5F"/>
+<rect x="897" y="980" width="6" height="130" fill="#1F4E5F"/>
+<rect x="897" y="1118" width="6" height="240" fill="#1F4E5F"/>
+<rect x="897" y="1366" width="6" height="160" fill="#1F4E5F"/>
+<rect x="897" y="1534" width="6" height="40" fill="#5E8797"/>
+<rect x="897" y="1582" width="6" height="20" fill="#5E8797"/>
+<rect x="897" y="1610" width="6" height="130" fill="#8A8A8A"/>
+<rect x="1087" y="70" width="6" height="250" fill="#1F4E5F"/>
+<text x="1102" y="199.0" font-size="11.5" fill="#111111" text-anchor="start">Bifurcación laboral (25)</text>
+<rect x="1087" y="328" width="6" height="220" fill="#1F4E5F"/>
+<text x="1102" y="442.0" font-size="11.5" fill="#111111" text-anchor="start">Gobernanza rebasada (22)</text>
+<rect x="1087" y="556" width="6" height="170" fill="#1F4E5F"/>
+<text x="1102" y="645.0" font-size="11.5" fill="#111111" text-anchor="start">Robótica China (17)</text>
+<rect x="1087" y="734" width="6" height="190" fill="#1F4E5F"/>
+<text x="1102" y="833.0" font-size="11.5" fill="#111111" text-anchor="start">Respuesta institucional (19)</text>
+<rect x="1087" y="932" width="6" height="220" fill="#1F4E5F"/>
+<text x="1102" y="1046.0" font-size="11.5" fill="#111111" text-anchor="start">Redefinición del trabajo (22)</text>
+<rect x="1087" y="1160" width="6" height="170" fill="#1F4E5F"/>
+<text x="1102" y="1249.0" font-size="11.5" fill="#111111" text-anchor="start">Riesgo macro IA (17)</text>
+<rect x="1087" y="1338" width="6" height="290" fill="#1F4E5F"/>
+<text x="1102" y="1487.0" font-size="11.5" fill="#111111" text-anchor="start">Robótica global (29)</text>
+<rect x="1087" y="1636" width="6" height="180" fill="#1F4E5F"/>
+<text x="1102" y="1730.0" font-size="11.5" fill="#111111" text-anchor="start">IA en contratación (18)</text>
+<rect x="1087" y="1824" width="6" height="40" fill="#5E8797"/>
+<text x="1102" y="1848.0" font-size="11.5" fill="#111111" text-anchor="start">Riesgo existencial IA (discurso) (4)</text>
+<rect x="1087" y="1872" width="6" height="30" fill="#5E8797"/>
+<text x="1102" y="1891.0" font-size="11.5" fill="#111111" text-anchor="start">Robots-soldado (Pentágono) (3)</text>
+<rect x="1087" y="1910" width="6" height="140" fill="#8A8A8A"/>
+<text x="1102" y="1984.0" font-size="11.5" fill="#111111" text-anchor="start">Otras señales débiles (14)</text>
+<rect x="1087" y="2058" width="6" height="40" fill="#D4D4D4"/>
+<text x="1102" y="2082.0" font-size="11.5" fill="#111111" text-anchor="start">Señales latentes (4)</text>
+</svg>
